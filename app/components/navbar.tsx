@@ -4,8 +4,6 @@ import { usePathname } from "next/navigation";
 
 export default function Navbar(){
   const currentPath = usePathname;
-
-  console.log(currentPath);
   return(
     <>
       <main>
