@@ -6,8 +6,8 @@ export default function Contacts() {
     <>
       <main>
         <div className="flex items-center justify-center w-full h-screen">
-          <div className="text-center text-6xl font-semibold m-auto">
-            <h1>Contacts</h1>
+          <div className="text-center text-base m-auto">
+            <h1>Social:</h1>
           </div>
         </div>
       </main>
